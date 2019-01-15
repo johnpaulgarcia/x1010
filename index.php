@@ -11,21 +11,42 @@
          <div class="container">
 
            <div class="row">
-                  <div class="col-4">
 
-                     <div class="box_pic">
 
-                     </div>
+               <!----- TOP HEADER ----!>
+               
+               <div class="row top_1">
                       
-                  </div>
+                      <!----- HEADER TITLE ---!>
 
-                  <div class="col-8">
+                      <div class="col-3">
 
-                     <div class="title">
+                       <!------ LOGO ----!>
+                           
+                           <div class="logo">
 
-                     </div>
+                             <h3 class="header_title">AnimeWorld</h3>
 
-                  </div>
+                           </div>
+
+
+                      </div>
+
+                      <div class="col-7">
+
+                      </div>
+
+
+                      <div class="col-2">
+
+                         <button>Register</button>
+                         <button>Login</button>
+
+                      </div>
+
+               </div>
+
+                  
            </div>
          	
          </div>
